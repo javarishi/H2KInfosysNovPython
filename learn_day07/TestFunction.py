@@ -8,4 +8,5 @@ say_hello(age=37, address="Spring Hill Pkey" ,name="Rishi")
 say_hello(address="Spring Hill Pkey", name="Ram", age="45")
 say_hello(age=30,name="Laxman", address="Dashrath Lane")
 say_hello("",'something', None)
-
+# <class 'function'>
+print(type(say_hello))

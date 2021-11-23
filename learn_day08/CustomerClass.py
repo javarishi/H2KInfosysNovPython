@@ -25,4 +25,5 @@ cust02.discount()
 # static methods do not need instance to call
 Customer.store_location_promotion()
 
-# H.W. find type of instance function of a class and function without a class
+# <class 'method'>
+print(type(cust02.discount))
