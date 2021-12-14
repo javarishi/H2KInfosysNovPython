@@ -1,0 +1,81 @@
+1639101749615	geckodriver	INFO	Listening on 127.0.0.1:57155
+1639101752717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ambarish\\AppData\\Local\\Temp\\rust_mozprofile6WV40j"
+1639101755680	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ambarish\\AppData\\Local\\Temp\\rust_mozprofile6WV40j\\search.json.mozlz4", (void 0)))
+1639101768619	Marionette	INFO	Listening on port 57163
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1639101770076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639101859124	Marionette	INFO	Stopped listening on port 57163
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1639101863551	geckodriver	INFO	Listening on 127.0.0.1:57247
+1639101866599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ambarish\\AppData\\Local\\Temp\\rust_mozprofile3jyE02"
+1639101868644	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ambarish\\AppData\\Local\\Temp\\rust_mozprofile3jyE02\\search.json.mozlz4", (void 0)))
+1639101879028	Marionette	INFO	Listening on port 57255
+1639101879896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1639101891527	Marionette	INFO	Stopped listening on port 57255
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639187307671	geckodriver	INFO	Listening on 127.0.0.1:56646
+1639187310973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ambarish\\AppData\\Local\\Temp\\rust_mozprofileGKbCpm"
+1639187312375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ambarish\\AppData\\Local\\Temp\\rust_mozprofileGKbCpm\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1639187325182	Marionette	INFO	Listening on port 56654
+1639187327214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639187344150	Marionette	INFO	Stopped listening on port 56654
+1639187707373	geckodriver	INFO	Listening on 127.0.0.1:56740
+1639187710446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ambarish\\AppData\\Local\\Temp\\rust_mozprofilev1xOMG"
+1639187713096	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ambarish\\AppData\\Local\\Temp\\rust_mozprofilev1xOMG\\search.json.mozlz4", (void 0)))
+1639187724835	Marionette	INFO	Listening on port 56748
+1639187725856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639187747024	Marionette	INFO	Stopped listening on port 56748
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639188706938	geckodriver	INFO	Listening on 127.0.0.1:56897
+1639188710026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Ambarish\\AppData\\Local\\Temp\\rust_mozprofileQ0pQSi"
+1639188712333	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Ambarish\\AppData\\Local\\Temp\\rust_mozprofileQ0pQSi\\search.json.mozlz4", (void 0)))
+1639188721477	Marionette	INFO	Listening on port 56905
+1639188722364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639188750176	Marionette	INFO	Stopped listening on port 56905
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAA0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
